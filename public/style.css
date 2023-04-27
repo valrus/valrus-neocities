@@ -1,0 +1,20 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Verdana;
+  display: flex;
+  justify-content: center;
+}
+
+.centered {
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  text-align: center;
+}
+
+img {
+  flex-grow: 0;
+}
