@@ -11,6 +11,7 @@ body {
 .title {
     background-color: #3df;
     border: 1px double #53f;
+    box-shadow: -4px 4px 2px #53f;
 }
 
 h1 {
