@@ -7,6 +7,10 @@ body {
   justify-content: center;
 }
 
+.title {
+    background-color: #2ce;
+}
+
 h1 {
     font-size: 64px;
     color: #53f;
