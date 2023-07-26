@@ -5,10 +5,12 @@ body {
   display: flex;
   gap: 40px;
   justify-content: center;
+  margin-top: 40px;
 }
 
 .title {
-    background-color: #2ce;
+    background-color: #3df;
+    border: 1px double #53f;
 }
 
 h1 {
